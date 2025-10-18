@@ -1,6 +1,4 @@
-# netlify.toml
-
 [[redirects]]
   from = "/apple-app-site-association"
-  to = "/api/aasa"
-  status = 200 # This makes it a rewrite, not a redirect
+  to = "/.netlify/functions/aasa"
+  status = 200
