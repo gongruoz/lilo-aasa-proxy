@@ -1,8 +1,0 @@
-{
-    "rewrites": [
-      {
-        "source": "/apple-app-site-association",
-        "destination": "/api/aasa"
-      }
-    ]
-  }
