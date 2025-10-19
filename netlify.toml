@@ -1,4 +1,0 @@
-[[redirects]]
-  from = "/apple-app-site-association"
-  to = "/.netlify/functions/aasa"
-  status = 200
